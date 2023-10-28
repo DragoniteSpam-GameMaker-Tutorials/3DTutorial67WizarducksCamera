@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings": [
+    {"name":"graphics","order":38,"path":"folders/graphics.yy",},
+    {"name":"object","order":39,"path":"folders/object.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_nineslice","order":12,"path":"sprites/spr_nineslice/spr_nineslice.yy",},
+    {"name":"spr_doggo","order":1,"path":"sprites/spr_doggo/spr_doggo.yy",},
+    {"name":"par_thingy","order":4,"path":"objects/par_thingy/par_thingy.yy",},
+    {"name":"spr_duckling_cast","order":3,"path":"sprites/spr_duckling_cast/spr_duckling_cast.yy",},
+    {"name":"obj_tree","order":1,"path":"objects/obj_tree/obj_tree.yy",},
+    {"name":"spr_grass_short","order":8,"path":"sprites/spr_grass_short/spr_grass_short.yy",},
+    {"name":"spr_main","order":11,"path":"sprites/spr_main/spr_main.yy",},
+    {"name":"spr_tree_round","order":14,"path":"sprites/spr_tree_round/spr_tree_round.yy",},
+    {"name":"obj_walky","order":3,"path":"objects/obj_walky/obj_walky.yy",},
+    {"name":"spr_duckling","order":2,"path":"sprites/spr_duckling/spr_duckling.yy",},
+    {"name":"ts_main","order":16,"path":"tilesets/ts_main/ts_main.yy",},
+    {"name":"obj_grass","order":5,"path":"objects/obj_grass/obj_grass.yy",},
+    {"name":"Group_Code","order":32,"path":"scripts/Group_Code/Group_Code.yy",},
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"spr_duckling_run","order":4,"path":"sprites/spr_duckling_run/spr_duckling_run.yy",},
+    {"name":"Room1","order":14,"path":"rooms/Room1/Room1.yy",},
+  ],
+}
