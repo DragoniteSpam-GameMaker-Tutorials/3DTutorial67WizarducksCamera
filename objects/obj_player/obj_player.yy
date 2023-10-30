@@ -40,5 +40,5 @@
     "path": "sprites/spr_duckling/spr_duckling.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

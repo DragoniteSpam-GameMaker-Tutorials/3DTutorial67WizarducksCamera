@@ -33,5 +33,5 @@
     "path": "sprites/spr_grass_short/spr_grass_short.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

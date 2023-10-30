@@ -39,5 +39,5 @@
     "path": "sprites/spr_doggo/spr_doggo.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

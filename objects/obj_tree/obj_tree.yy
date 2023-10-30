@@ -33,5 +33,5 @@
     "path": "sprites/spr_tree_round/spr_tree_round.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
