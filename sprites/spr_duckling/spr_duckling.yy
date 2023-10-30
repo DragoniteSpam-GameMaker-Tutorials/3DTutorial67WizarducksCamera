@@ -61,7 +61,7 @@
     ],
     "top": 0,
   },
-  "origin": 4,
+  "origin": 7,
   "parent": {
     "name": "graphics",
     "path": "folders/graphics.yy",
@@ -113,7 +113,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 16,
-    "yorigin": 16,
+    "yorigin": 32,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

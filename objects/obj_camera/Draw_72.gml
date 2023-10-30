@@ -12,3 +12,8 @@ camera_set_proj_mat(camera, matrix_build_projection_perspective_fov(-60, -window
 camera_apply(camera);
 
 draw_clear(c_black);
+
+gpu_set_zwriteenable(true);
+gpu_set_ztestenable(true);
+gpu_set_alphatestenable(true);
+gpu_set_alphatestenable(254);
