@@ -4,6 +4,7 @@
     {"name":"object","order":39,"path":"folders/object.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_camera","order":40,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"spr_nineslice","order":12,"path":"sprites/spr_nineslice/spr_nineslice.yy",},
     {"name":"spr_doggo","order":1,"path":"sprites/spr_doggo/spr_doggo.yy",},
     {"name":"par_thingy","order":4,"path":"objects/par_thingy/par_thingy.yy",},
